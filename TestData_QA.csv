@@ -1,0 +1,357 @@
+Field_Data,Field_data_iter1
+welcome_allYourText,"All your healthcare in one app"
+login_welcomeBack_text,Welcome back!
+login_page_title,Log in
+login_link_with_google_title,Link with Google
+login_link_with_linkedIn_title,Link with LinkedIn
+login_dontHaveAnAccount_text,Don’t have an account?
+login_email_id,"sree@0.com,abcde@999.com,testmail@gmail.com,tester@qa.com,Rohan@1.com,Rohan@2.com,Rohan@3.com"
+login_password,"Test@123,Test@321,Test@1234"
+login_phoneno,"4824531809,8989898080,0000055555,8080808089,2123456789"
+login_email_phoneno_blank_error,Please enter your email or mobile number
+login_password_blank_error,Please enter password to login!
+login_invalid_phone_password_error,Invalid username or password.
+login_nonExists_emailPhoneno_error,Account does not exist. Create a new account
+gmail_page_title,Choose an account
+linkedin_page_title,Welcome Back
+signup_welcome_title,Welcome!
+signup_page_title,Create my account
+signup_termsOfService_text,terms of service
+signup_createAccount_text,Create account
+signup_userDetailsPage_title,Welcome! Please add a few details about yourself
+signup_first_name,"#2323##$$ ,Test"
+signup_last_name,"23##re,Last"
+signup_email_id,"Testempgmail.com,test@mail.com,tester907@mail.com"
+signup_phone_number,"222555,##()@,8989898080"
+signup_password,"abcd,abcdefgh,Test@123"
+signup_confirm_password,"Test@122,Test@123"
+signup_firstname_blank_msg,First name required
+signup_lastname_blank_msg,Last name required
+signup_phoneNumber_invalid_msg,Mobile number should be 10 digit number
+signup_firstname_invalid_msg,Invalid first name
+signup_lastname_invalid_msg,Invalid last name
+signup_invalid_emailid_msg,Invalid email
+signup_email_blank_msg,Email id required
+signup_phoneNumber_blank_msg,Mobile number required
+signup_password_blank_msg,Password required
+signup_confirmPassword_blank_msg,Confirm password required
+signup_password_invalidLength_msg,Should be at least 8 characters
+signup_password_invalid_msg,"Must include an upper case and lower case, number and symbol"
+signup_password_invalidMatch_msg,Password does not match
+signup_emailExists_msg,Email already exists
+signup_phoneNumExists_msg,Contact number already exists.
+signup_referral_code,"revad908,REVAd908,ROHA47e3"
+signup_promo_code,"IFP001,MEDI001,medi001"
+signup_referralPromoCode_invalid_msg,Invalid referral/promo code
+signup_T&C_Privacy_blank_msg,Please accept terms and conditions and privacy policy!
+signup_byCreatingAn_text,By creating an account you are accepting the
+signup_haveAnAccount_text,Have an account?
+signup_emailId_helpText,abc@gmail.com
+signup_password_helpText,Password (8+ characters)
+signup_confirmPassword_helpText,Password (8+ characters)
+signup_T&C_title,Terms & conditions
+signup_PP_title,Privacy policy
+otp_1,"1,4"
+otp_2,"2,3"
+otp_3,"3,2"
+otp_4,"4,1"
+otp_page_title,Please enter OTP
+otp_verificationCodeSent_toastMsg," Verification code sent,Verification code sent"
+otp_verificationCodeResent_toastMsg," Verification code resent,Verification code resent"
+otp_enterThe4_text,Enter a 4 digit code sent to
+otp_didntReceiveIt_text,Request new code in
+otp_invalid_msg,"Incorrect OTP, please try again"
+edit_wellSendAOTP_text,We’ll send an OTP to confirm your number
+home_congratulations_text,Congratulations! You chose to get Mpowered!
+awardPoints_youEarned_text,You earned
+awardPoints_usedMedi001_text,Used Medi001 as promocode
+awardPoints_value,100
+awardPoints_someoneUsed_text,Someone used your referral code.
+forgotPassword_page_title,Forgot password
+forgotPassword_pleaseEnterYour_label,Please enter your registered email or mobile number
+forgotPassword_emailOrMobileNum,"1000000002,testmail@mph.com,8734,111122223333,/((&%,9400095626,test.com,testforgot@gmail.com"
+forgotPassword_enterEmailOrMobile_text,Enter your email or mobile number
+forgotPassword_we'llSendAn_text,We’ll send an OTP to your registered number
+forgotPassword_enterThe4Digit_text,Enter a 4 digit code sent to ******002
+forgotPassword_didntReceiveIt_text,Didn't receive the code?
+forgotPassword_createNewPassword_title,Create new password
+forgotPassword_password,"Test@1234,asd,asdfghjk,Test@123"
+forgotPassword_error_msg,Invalid email or mobile number
+forgotPassword_OTPError_msg,"Incorrect OTP, please try again"
+forgotPassword_blankPassword_msg,Password required
+forgotPassword_blankConfirmPassword_msg,Confirm password required
+forgotPassword_passwordLength_msg,Should be at least 8 characters
+forgotPassword_passwordStrength_msg,"Must include an upper case and lower case, number and symbol"
+forgotPassword_passwordMatch_msg,Password does not match
+referAFriend_yourReferral_text,Your referral code
+referAFriend_howItWorks_text,How it works
+referAFriend_inviteYour_text,Invite your friends to Mpowered   Health by sharing your unique invitation code
+referAFriend_theyUse_text,They use your invitation code to signup for an Mpowered Health account
+referAFriend_youCanEarn_text,"You can earn award points, when they successfully create an account using your invitation code"
+servicesPage_title,Records
+services_conditionsTile_text,"Conditions,Conditions "
+services_conditionsPage_title,Conditions
+services_medicationsTile_text,"Medications,Medications "
+services_medicationsPage_title,Medications
+services_proceduresTile_text,"Procedures,Procedures "
+services_proceduresPage_title,Procedures
+services_allergiesTile_text,"Allergies,Allergies "
+services_allergiesPage_title,Allergies
+services_immunizationsTile_text,"Immunizations,Immunizations "
+services_immunizationsPage_title,Immunizations
+services_vitalsTile_text,"Vitals,Vitals "
+services_vitalsPage_title,Vitals
+services_labResultsTile_text,"Lab results,Lab results "
+services_labResultsPage_title,Lab results
+services_visitsTile_text,"Visits,Visits "
+services_visitsPage_title,Visits
+services_socialHistoryTile_text,"Social history,Social history "
+services_socialHistoryPage_title,Social history
+services_billsTile_text,"Bills,Bills "
+services_billsPage_title,Bills
+services_claimsTile_text,"Claims,Claims "
+services_claimsPage_title,Claims
+services_coverageTile_text,"Coverage,Coverage "
+services_coveragePage_title,Coverage
+services_carePlansTile_text,"Care plans,Care plans "
+services_carePlans_title,"Care plans"
+services_careTeamsTile_text,"Care teams,Care teams "
+services_careTeams_title,"Care teams"
+services_consent_text,"Consents"
+services_consent_title,My consents
+utilities_awardPointsTile_text,"Award points ,Award points"
+utilities_awardPointsPage_title,Award points
+utilities_paymentMethods_text,"Payment methods ,Payment methods"
+utilities_paymentMethodsPage_title,Manage payments
+utilities_referAFriend_text,"Payment methods ,Refer a friend"
+utilities_referAFriendPageTitle,Refer a friend
+utilities_accountDetailsTile_text,"Account details ,Account details"
+utilities_accountDetailsPage_title,Account details
+utilities_logoutTile_text,"Log out ,Log out"
+utilities_helpTile_text,"Help ,Help"
+utilities_helpPage_title,Frequently asked questions
+utilities_feedbackTile_text,"Feedback ,Feedback"
+utilities_feedbackPage_title,Mpowered Health Feedback Portal
+utilities_contactUsTile_text,"Contact us ,Contact us"
+utilities_contactUsPage_title,Contact us
+utilities_privacyPolicyTile_text,"Privacy policy ,Privacy policy"
+utilities_privacyPolicyPage_title,Privacy policy
+utilities_T&CTile_text,"Terms & conditions ,Terms & conditions"
+utilities_T&CPage_title,Terms & conditions
+utilities_deactivateAccountTile_text,"Deactivate account ,Deactivate account"
+utilities_deactivateAccountPage_title,Deactivate account
+circlesPage_title,Circles
+circles_searchBox_text,"Search organization name, Search organization name"
+circles_noOrgIn_text,No organizations in my circle!
+circles_addToCirclePage_title,Add to circle
+circles_IWantTo_text,I want to add an...
+circles_partner_tileText,"Organization,Organization "
+circles_individual_tileText,"Individual,Individual "
+circles_organizationText,"Organization: Organizations are health plans, hospitals or other healthcare organizations that you currently have or have had a relationship with in the past. You will need your user ID & password for these organizations to establish the connection"
+circles_IndividualText,Individual: Individual is someone you know who is either involved in your care or for whom you provide care. Do not establish connections with people you do not know.
+circles_addAPartner_popUpTitle,Add an organization
+circles_addAPartner_searchBoxText,"Search by organization name, Search by organization name"
+circles_partnerName,"Humana,Humana "
+circles_partnerList,"Cigna,ElderPlan,Humana,Aetna,Clover Health,Anthem"
+circles_partnerPage_titleList,"My Medicare,Veterans Affairs,Humana"
+circles_partnerList_iOS,"My Medicare,Veterans Affairs,Humana "
+circles_noIndividual_text,No individual added
+circles_noIndividual_subtext,Please click on the below button to add an individual to my circle
+circles_addAnIndividual_title,Add an individual
+circles_addAnIndividual_subtext,Please give details of the individual whose records you want to access
+home_congratsText,Congratulations! You chose to get Mpowered!
+home_letUsText,"Let us show you some quick tips
+to get started"
+home_manageText,Manage health information
+home_fetchYourText,"Fetch your health records from Medicare &
+Apple Health and consolidate them in your account."
+home_rewardText,Reward yourself for getting Mpowered!
+home_earnText,"Earn award points for referrals and more.
+Redeem points for gift cards, or to pay your bills."
+home_feedbackText,Give feedback
+home_rateServiceText,Rate services you use and share feedback to help better the consumer health care experience for all.
+home_manageProfText,Manage your profile
+home_uploadText,"Upload your information for safe and secure access.
+Control who sees what information from your records."
+home_recentlyText,Recently Viewed Actions
+mph_pp_heading,MPOWERED HEALTH� PRIVACY POLICY
+pp_collectionPersonal_title,1. COLLECTION OF YOUR PERSONAL INFORMATION
+pp_sharePersonal_title,2. USES OF AND SHARING YOUR PERSONAL INFORMATION
+pp_yourInfo_title,3. YOUR INFORMATION CHOICES
+pp_changesPersonal_title,4. CHANGES TO YOUR PERSONAL INFORMATION
+pp_useCookies_title,6. USE OF COOKIES & OTHER TRACKING ELEMENTS
+pp_accountDeactivation_title,5. ACCOUNT DEACTIVATION & DELETION OF YOUR PERSONAL INFORMATION
+pp_securityPersonal_title,7. SECURITY OF YOUR PERSONAL INFORMATION
+pp_contactMpowered_title,8. CONTACT MPOWERED HEALTH
+pp_changesMpowered_title,9. CHANGES TO THIS PRIVACY POLICY
+pp_mailLink,privacy@mpoweredhealth.com
+pp_suuportMail,support@mpoweredhealth.com
+pp_macroMedia_link,http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118
+pp_privacy_link,http://www.google.com/privacy.html
+pp_privacyAds_link,http://www.google.com/privacy_ads.html
+pp_analytics_link,http://www.google.com/analytics/tos.html
+pp_analytics_link,http://www.google.com/policies/privacy/partners/
+pp_partners_link,http://www.google.com/policies/privacy/partners/
+pp_lastUpdate,"This Policy was last updated on February 28, 2022. Version 2.0"
+tc_title,MPOWERED HEALTH(TM) TERMS AND CONDITIONS
+tc_regUser,1. Registered users:
+tc_partnersLink,https://www.mpoweredhealth.com/partners
+tc_accessPersonal_title,2. Access to your Personal Health Information (�PHI�)
+tc_youRepresent_title,3. You represent and warrant that
+tc_youAgree_title,4. You agree not to
+tc_intellectual_title,5. Intellectual Property Rights
+tc_termination_title,6. Termination
+tc_partnerServices_title,7. Partner Actions & External Links
+tc_endorsement_title,8. No Endorsements or Recommendations
+tc_privacy_title,9. Privacy
+tc_privacy_link,https://www.mpoweredhealth.com/privacy-policy
+tc_security_title,10. Security
+tc_awardPoint_title,11. Award Points Program
+tc_indeminification_title,12. Indemnification and Limitation of Liability
+tc_disclaimer_title,13. Disclaimers
+tc_perosnlaInfo_title,14. Personal Information
+tc_waivers_title,15. Waivers
+tc_general_title,16. General
+tc_lastUpdate,"Last Update Date: February 28, 2022. Version 2.0"
+utilities_privacyPolicy_tile,Privacy Policy ?
+coverage_page_title,Coverage
+coverage_searchBox_label,"Search by coverage policy number, Search by coverage policy number"
+coverage_statusFilter_text,"All,Status:  All "
+coverage_noCoverageFound_text,No coverage found
+coverage_weCouldNot_text,We couldn’t find any coverage in your records
+coverage_selectService_title,Select service provider
+coverage_selectPlan_title,Select plan
+coverage_addCoveragePage_title,Add coverage
+coverage_MA_youAreAbout_text,"You are about to go to eHealth's website. eHealth makes it easier for you to find affordable,quality health insurance. Please have your Medicare card and primary care physician's name handy."
+coverage_MA_IAgreeToeHealth_text,"I agree to the eHealth Terms and conditions and Privacy policy  and authorize Mpowered Health to share my zip code details with eHealth to customize the shopping and enrollment experience. If I enroll in a plan, I authorize eHealth to share my enrollment and plan information with Mpowered Health."
+coverage_MA_IAgreeThatMpowered_text,"I agree that Mpowered Health could share my Provider,Drug,Pharmacy & Personal information for enhanced shopping and enrollment experience."
+coverage_MA_title,Find your Medicare Advantage plan
+coverage_MAPlan_title,Medicare Advantage Plan
+coverage_PlanDetailsTitle,Plan details
+coverage_ifYourAreSeeing_text,"*If you are seeing the status as,for eHealth plans, it is because you recently visited the eHealth website. If you enrolled in a plan, the status will be updated once we receive the information from eHealth. Otherwise, this status will be cleared after 24-48 hours."
+coverage_IFP_youAreAbout_text,"You are about to go to eHealth's website. eHealth makes it easier for you to find affordable,quality health insurance."
+coverage_IFP_IAgreeTo_text,"I agree to the eHealth  Terms and conditions   and  Privacy policy  and authorize Mpowered Health to share my personal information with eHealth to customize the shopping and enrollment experience. If I enroll in plan, I authorize eHealth to share my enrollment and plan information with Mpowered Health."
+coverage_IFP_title,"Find affordable individual and family health insurance,individual and family health insurance"
+coverage_IFPPlan_title,Individual Family Plan
+deactivate_title,Deactivate my account?
+deactivate_we'reSorryText,We're sorry to see you go!
+deactivate_reasonForLeavingText,Reason for leaving?
+deactivate_beforeYouGo,Before you go...
+deactivate_downloadMyTitle,Download my health records
+deactivate_downloadMyText,Data will not be available for download after account deactivation. We recommend  you to download all the data before deactivating the account.
+deactivate_IWillNoText,I will no longer be able to earn or redeem award points.
+deactivate_IWillHaveToText,I will have to go through additional verification steps to re-activate my account.
+deactivate_IWillNoLongerReceiveText,I will no longer receive alerts or notifications to my email or phone about my account.
+deactivate_mpoweredText,Mpowered Health will not request or share any information about myself even if I have consents set up in my account.
+deactivate_myPartnersText,"My partners will immediately stop seeing all my information, except information for which I have given them consent to download."
+deactivate_IWillNoLongerText,I will no longer be able to earn or redeem award points.
+deactivate_IWillNoLongerReceiveAlertsText,I will no longer receive alerts or notifications on my email or phone.
+deactivate_myPersonalText,"My personal data will be archived for 10 years and during this period it will be used only for legal, audit & compliance purpose. (For example, we may need to respond to audits by regulatory authorities)."
+deactivate_myDataText,My data will not be available for download after I deactivate. We recommend that you download all your data before deactivating your account.
+deactivate_IMayText,"I may re-activate my account, but I will have to go through additional verification steps & incur a fee to re-activate my account."
+deactivate_IHaveText,I have read and understood the implications of deactivating the account.
+deactivate_popTitle,Deactivate account
+deactivate_areYouText,Are you sure you want to deactivate your account?
+deactivate_username,test@i.com
+deactivateLoginErrorMsg,Account is disabled. Please contact support@mpoweredhealth.com to enable the account.
+deactivated_popUpTitle,Account Deactivated
+deactivated_popUpText,"If you did NOT initiate the deactivation, contact support@mpoweredhealth.com immediately with title “URGENT: ACCOUNT DEACTIVATION”"
+paymentMethods_youDoNotText,You do not have any payment options setup.
+paymentMethods_addAPaymentText,Add a payment method
+paymentMethods_addACreditText,Add a credit / debit card
+paymentMethods_addABankText,Add a bank account
+card_saveAs,Card
+card_nameOnCard,"Robert,Robertson"
+card_cardNumber,4242424242424242
+card_expiry,12/26
+card_cvc,123
+card_postalCode,14785
+card_phoneNumber,8143477455
+card_addressLine1,add1
+card_addressLine2,add2
+cardStateLabel,Select state
+card_state,Guam
+card_city,ABC
+card_detailsSavedPopupTitle,Card details saved!
+card_detailsSavedPopupText,Your card details have been saved.
+bank_saveAs,Bank
+bank_accountName,"Robert,Robertson"
+bank_routingNumber,110000000
+bank_accountHolderType,Individual
+bank_accountNumber,000123456789
+bank_detailsSavedPopupTitle,Bank account saved!
+bank_detailsSavedPopupText,Your account details have been saved.
+savedBank_unverifiedText,unverified
+bank_verifyAccountTitle,Verify account
+bank_weSentTwoText,"We sent two small deposits to this bank account. To verify this account, please confirm the amount of these deposits."
+bank_firstAmount,32
+bank_secondAmount,45
+bank_accountVerifiedTitle,Account verified!
+bank_yourBankAccountText,Your bank account was verified successfully.
+savedBank_verified,verified
+bank_deletePopupTitle,Delete bank account ending 6789
+bank_deletePopupText,"Are you sure, you want to delete this payment method?"
+deletedBankPopupTitle,Bank account ending 6789 deleted!
+deletedBankPopupText,Your bank account has been deleted.
+card_deletePopupTitle,Delete card ending 4242
+deletedCardPopupTitle,Card ending 4242 deleted!
+deletedCardPopupText,Your card has been deleted.
+save,Save
+card_detailsUpdatedPopupText,Your card details have been updated.
+conditions_searchBox,"Search by condition code, Search by condition code"
+conditions_noDataText,No conditions found
+conditions_DateFilter,"Date:,Date:  All "
+conditions_statusFilter,"Status:,Status:  All "
+conditions_addDataTitle,Add condition
+conditions_conditionNameLabel,Condition name*
+conditions_conditionName,"Enter condition name,Hypertension"
+conditions_facilityLabel,Facility
+conditions_facility,"Enter facility,Mayo clinic,ABC clinic"
+conditions_categoryLabel,Category
+conditions_category,"Select category,Problem list item ,Select category ,Problem list item"
+conditions_statusLabel,Status*
+conditions_status,"Select status, Active ,Select status ,Active"
+conditions_severityLabel,Severity
+conditions_severity,"Select severity,Moderate ,Select severity ,Moderate"
+conditions_codeLabel,Code
+conditions_code,"Enter condition code,a048,6161"
+conditions_recordedOnLabel,Recorded on*
+conditions_recordedOn,"MM/DD/YYYY,10/11/2022,MM/DD/YYYY 󰃭,Oct 11, 2022"
+conditions_recordedByLabel,Recorded by
+conditions_recordedBy,"Recorded by e.g. John Robertson,Dr.Donald Simmons M.D"
+conditions_noteLabel,Note
+conditions_note,"Add note,This resource has been sourced from your provider."
+conditions_markRestrictedTitle,Mark restricted
+conditions_markRestrictedText,"Mark the condition as restricted if you want to hide it from sharing with your circle of family, providers etc."
+alert_youHaveReceivedText,You have received 100 award points.
+uploadDocumentText,"JPG, PNG, or PDF smaller than 10MB"
+linkedIn_welcomeBack,Welcome Back
+linkedIn_dontMissText,Don't miss your next opportunity. Sign in to stay updated on your professional world.
+linkedIn_email,revathytester47@gmail.com
+linkedIn_password,Test@123
+linkedIn_mphText,MPH - Consumer Social App - QA would like to:
+linkedIn_firstName,Revathy
+linkedIn_lastName,Testing
+linkedIn_phoneNum,4123456789
+signup_buttonLabel,Sign up
+Login_buttonLabel,Link with Google
+linkedIn_signInLabel,Sign in
+updateProfile_zipcode,96001
+congratulationsTitle,Congratulations!
+congratulationsText,Your condition has been successfully added. You can see the details by clicking on the condition in the medical services.
+conditionDetailedViewTitle,Condition details
+conditionSearchData,a048 - Other specified bacterial intestinal infections
+conditionsDateFilterTitle,Filter based on time:
+conditionsStatusFilterTitle,Filter based on status:
+conditionEditPageTitle,Edit data
+saveChangesTitle,Save changes
+saveChangesText,Are you sure you want to save these changes?
+conditions_noDataSubText,No matching conditions found!
+conditionHistoricalRecordTitle,Historical records
+conditionDataSource,SELF REPORTED
+immunizationSearchBox," Search by immunization code,Search by immunization code"
+immunizationDateFilter,Date:
+immunizationStatusFilter,Status:
+immunizationNoDataText,No immunizations found
+immunizationCode,"90620,456Ag"
+immunizationSearchData,90620 - Meningococcal recombinant protein and outer membrane vesicle vaccine
